@@ -2,7 +2,8 @@
 
 ## Web Developer | Designer | Artist
 
-- 👉 My [Frontendmentor profile](https://www.frontendmentor.io/profile/T-Nabeel target="blank")
+- 👉 My [Frontendmentor profile](https://www.frontendmentor.io/profile/T-Nabeel)
+- 👉 My <a href="https://www.frontendmentor.io/profile/T-Nabee" target="_blank">Frontendmentor profile</a>
 - 😀 I’m interested in all kind of Design work 🎨
 - 💻 I’m currently learning Software Development
 - 💞️ I’m looking to collaborate with various web projects
