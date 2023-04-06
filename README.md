@@ -43,4 +43,4 @@
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" />
 </p>
 
-<a href="https://github.com/T-Nabeel" align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=t-nabeel&show_icons=true&locale=en&layout=compact" alt="t-nabeel" /></a>
+<a href="https://github.com/T-Nabeel" align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=t-nabeel&bg_color=000000&show_icons=true&locale=en&layout=compact" alt="t-nabeel" /></a>
