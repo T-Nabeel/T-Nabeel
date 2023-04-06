@@ -1,24 +1,32 @@
-## Hey, I'm Nabeel - aka NMTN 👋
+# Hey, I'm Nabeel - aka NMTN 👋
 
 ## Web Developer | Designer | Artist
 
 - 👉 My [Frontendmentor profile](https://www.frontendmentor.io/profile/T-Nabeel)
-- 😀 I’m interested in all kind of Design work 🎨
+- 🎨 I’m interested in all kind of Design work 
 - 💻 I’m currently learning Software Development
-- 💞️ I’m looking to collaborate with various web projects
-- 🏹 fact: I love drawing!
+- 💞 Looking to collaborate with various projects
+- ⚡  fact: I love drawing!
 
-### Skills
+## Skills
 
-### Programming Languages
+### Languages & Tools
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="36" height="36"/> 
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
+  <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="36" height="36"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="36" height="36"/>
+<img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="36" height="36"/>
 </p>
   
 ### Libraries & Frameworks
@@ -35,5 +43,4 @@
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" />
 </p>
 
-<a href="https://github.com/T-Nabeel" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T-Nabeel&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
+<a href="https://github.com/T-Nabeel" align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=t-nabeel&show_icons=true&locale=en&layout=compact" alt="t-nabeel" /></a>
